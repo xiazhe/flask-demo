@@ -1,7 +1,0 @@
-Flask
-Flask-RESTful
-Flask-SQLAlchemy
-Flask-WTF
-Flask-Moment
-Flask-Bootstrap
-Flask-Migrate

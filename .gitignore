@@ -20,4 +20,4 @@ docs/_build
 .tox
 .coverage
 
-examples/flasky/venv/
+venv/
